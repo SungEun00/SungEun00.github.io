@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, thanks for visiting his website!
+Hello, thanks for visiting this website!
